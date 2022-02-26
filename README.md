@@ -5,4 +5,4 @@ I created this repository to fulfill my 4rd-semester data science class in the I
 
 More Information:
 - University: Maranatha Christian University
-- Lecturer: Setia Budi, S.Kom., M.Comp., Ph.D.
+- Lecturer: [Setia Budi, S.Kom., M.Comp., Ph.D.](https://github.com/boedybios)
